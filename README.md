@@ -38,14 +38,13 @@ A few examples (usually 2–5) are given before the task.
 
 📌 **Example**:
 
-```text
-Translate this sentence into French:
-- I am hungry → J'ai faim
-- She is a teacher → Elle est professeur
-- They are going to school → Ils vont à l'école
-- I like cats →
+> Translate this sentence into French:
+> I am hungry → J'ai faim
+> She is a teacher → Elle est professeur
+> They are going to school → Ils vont à l'école
+> I like cats →
 
-# 🔹 Prompting Techniques Based on Strategy
+## 🔹 Prompting Techniques Based on Strategy
 
 ### 4. Chain-of-Thought (CoT) Prompting
 Encourages the model to reason step-by-step.
