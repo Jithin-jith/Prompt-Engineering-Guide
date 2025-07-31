@@ -55,21 +55,19 @@ Encourages the model to reason step-by-step.
 
 ✅ Improves reasoning tasks like math, logic, and QA.
 
----
 
 ### 5. Self-Consistency Prompting
 Uses multiple sampled CoT outputs and selects the most consistent answer.
 
 ✅ Increases robustness and accuracy.
 
----
 
 ### 6. Retrieval-Augmented Prompting
 Adds external context retrieved from documents or knowledge bases.
 
 ✅ Often used in **RAG (Retrieval-Augmented Generation)** systems.
 
----
+
 
 ### 7. Instruction-based Prompting
 Clear instructions are given to the model.
@@ -77,7 +75,7 @@ Clear instructions are given to the model.
 📌 **Example**:
 > Summarize the following article in 3 bullet points.
 
----
+
 
 ### 8. Role Prompting
 Sets a role or persona for the model to follow.
@@ -85,7 +83,7 @@ Sets a role or persona for the model to follow.
 📌 **Example**:
 > You are a helpful medical assistant. Answer concisely and factually.
 
----
+
 
 ### 9. Multimodal Prompting
 Combines text with images, audio, or other modalities as input.  
@@ -94,4 +92,3 @@ Used in models like **GPT-4o**, **Gemini**, and **Claude 3**.
 📌 **Example**:
 > Describe this image and write a caption suitable for social media.
 
----
